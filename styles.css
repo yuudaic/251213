@@ -463,7 +463,8 @@ img {
     margin-bottom: 0.5rem;
     color: var(--color-primary);
     position: relative;
-    display: inline-block;
+    display: block;
+    text-align: center;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
 }
